@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="bot"/>
+	<classpathentry kind="src" path="faceb"/>
+	<classpathentry kind="src" path="git"/>
+	<classpathentry kind="src" path="language"/>
+	<classpathentry kind="src" path="main"/>
+	<classpathentry kind="src" path="nuget"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="website"/>
+	<classpathentry kind="src" path="swing"/>
+	<classpathentry kind="src" path="ai"/>
+	<classpathentry kind="src" path="registry"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
